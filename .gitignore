@@ -68,9 +68,6 @@ web_modules/
 # Yarn Integrity file
 .yarn-integrity
 
-# dotenv environment variables file
-.env
-.env.test
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
@@ -115,7 +112,11 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-commit.sh
-compile.sh
-package-lock.json
-things.js
+# dotenv environment variables file
+
+# .env
+# .env.test
+# commit.sh
+# compile.sh
+# package-lock.json
+# things.js
