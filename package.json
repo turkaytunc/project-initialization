@@ -1,0 +1,14 @@
+{
+  "name": "project-initialization",
+  "version": "1.0.0",
+  "description": "boiler plate for web projects",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sh compile.sh",
+    "commit": "sh commit.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
